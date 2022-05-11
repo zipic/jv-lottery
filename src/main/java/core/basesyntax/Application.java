@@ -9,5 +9,6 @@ public class Application {
             Ball ball = lottery.getRandomColor();
             System.out.println(ball);
         }
+        // create three balls using class Lottery and print information about them in console
     }
 }
